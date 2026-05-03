@@ -1,0 +1,13 @@
+[
+  {
+    "start": "2026-05-03T11:49:21.399726",
+    "end": "2026-05-03T11:51:52.131722",
+    "duration_minutes": 2,
+    "mode": "Study",
+    "avg_focus": 86,
+    "max_focus": 100,
+    "min_focus": 50,
+    "distractions": 8,
+    "frames_processed": 90
+  }
+]
